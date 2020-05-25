@@ -9,5 +9,8 @@
         <module name="seleniumdocker" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="seleniumdocker" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

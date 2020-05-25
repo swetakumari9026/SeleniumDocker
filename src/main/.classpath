@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.seleniumhq.selenium:selenium-api:3.141.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: org.seleniumhq.selenium:selenium-support:3.141.5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
